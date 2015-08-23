@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "johnheroy@gmail.com",
+    "longName": "BIG BLUE BUS",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "BIG BLUE BUS",
+    "uuid": "5ccaa375-b606-47e2-bcbd-ed3cd5d392c4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
