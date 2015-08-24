@@ -4,13 +4,17 @@
         ""
     ],
     "companyName": "johnheroy@gmail.com",
-    "longName": "BIG BLUE BUS",
+    "longName": "Big Blue Bus (beta)",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "BIG BLUE BUS",
+    "shortName": "Big Blue Bus",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "5ccaa375-b606-47e2-bcbd-ed3cd5d392c4",
     "versionLabel": "1.0",
     "watchapp": {
