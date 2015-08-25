@@ -1,7 +1,9 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "stops": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "johnheroy@gmail.com",
     "longName": "Big Blue Bus (beta)",
